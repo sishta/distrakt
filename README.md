@@ -1,2 +1,2 @@
-# overracer
-pseudo3d arcade racing game project
+# distrakt
+Distrakt is the game based on Blender Game Engine
