@@ -1,0 +1,25 @@
+#LAST MISSION
+#Cars in mission (CiM, max=5)
+ALL
+#Car 1
+Badboy XY-3
+#Car 2
+----
+#Car 3
+----
+#Car 4
+----
+#Car 5
+----
+#Mission Location (MLoc)
+Nevaring_test
+#Mission Course (MCou)
+1
+#Mission Type (MTyp)
+Hotlap
+#Mission Success (MSuc)
+61.183
+#Mission Info (MInf)
+You thought it was last mission?
+Nope! The lastest is now!
+You're carmaster, select any of them!

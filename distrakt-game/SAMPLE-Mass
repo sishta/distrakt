@@ -1,0 +1,13 @@
+BLOCS:
+python "editobject.py" -> actuator "edit obj"-"dynamix"-"setmass"
+
+import bge
+controller = bge.logic.getCurrentController()
+
+act = controller.actuators["actuator"]
+
+#get mass
+obj_mass = act.mass
+
+#set mass
+act.mass = 5.5
