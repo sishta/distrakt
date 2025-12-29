@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="81" height="156" viewBox="0 0 81 156"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+<desc>'Morris_Mini.blend', ME_Car_body, (Blender 2.79 (sub 0))</desc>
+<polygon stroke="black" stroke-width="1" fill="rgb(249, 241, 214)" fill-opacity="0.25" points="64.171,139.256 19.273,139.256 19.273,21.017 64.171,21.017 " />
+<polygon stroke="black" stroke-width="1" fill="rgb(249, 241, 214)" fill-opacity="0.25" points="19.273,21.017 7.200,18.704 19.129,7.000 " />
+<polygon stroke="black" stroke-width="1" fill="rgb(249, 241, 214)" fill-opacity="0.25" points="65.112,152.280 64.171,139.256 75.400,141.270 " />
+<polygon stroke="black" stroke-width="1" fill="rgb(249, 241, 214)" fill-opacity="0.25" points="65.109,7.000 75.400,19.023 64.171,21.017 " />
+<polygon stroke="black" stroke-width="1" fill="rgb(249, 241, 214)" fill-opacity="0.25" points="19.273,139.256 7.200,141.564 7.200,18.704 19.273,21.017 " />
+<polygon stroke="black" stroke-width="1" fill="rgb(249, 241, 214)" fill-opacity="0.25" points="64.171,21.017 75.400,19.023 75.400,141.270 64.171,139.256 " />
+<polygon stroke="black" stroke-width="1" fill="rgb(249, 241, 214)" fill-opacity="0.25" points="65.112,152.280 19.297,152.280 19.273,139.256 64.171,139.256 " />
+<polygon stroke="black" stroke-width="1" fill="rgb(249, 241, 214)" fill-opacity="0.25" points="19.129,7.000 65.109,7.000 64.171,21.017 19.273,21.017 " />
+<polygon stroke="black" stroke-width="1" fill="rgb(249, 241, 214)" fill-opacity="0.25" points="19.297,152.280 7.200,141.564 19.273,139.256 " />
+
+</svg>

@@ -3,8 +3,8 @@
 
 <svg
    width="512"
-   height="256"
-   viewBox="0 0 135.46666 67.733332"
+   height="298"
+   viewBox="0 0 135.46666 78.845831"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (1:1.4.2+202505120737+ebf0e940d0)"
@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="1.5507813"
-     inkscape:cx="202.47859"
-     inkscape:cy="126.71033"
+     inkscape:zoom="1.096568"
+     inkscape:cx="203.36177"
+     inkscape:cy="13.223074"
      inkscape:window-width="1854"
      inkscape:window-height="1123"
      inkscape:window-x="66"
@@ -37,9 +37,19 @@
      inkscape:current-layer="layer2"
      showguides="true">
     <sodipodi:guide
-       position="9.5726432,-6.8251719"
+       position="9.5726432,-17.937678"
        orientation="0,-1"
        id="guide3"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="135.46666,56.620826"
+       orientation="1,0"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="126.88475,56.620828"
+       orientation="0.70710678,-0.70710678"
+       id="guide2"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
@@ -47,11 +57,13 @@
   <g
      inkscape:label="Слой 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1"
+     transform="translate(0,11.112506)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Слой 2">
+     inkscape:label="Слой 2"
+     transform="translate(0,11.112506)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.68226px;line-height:1.6;font-family:Chango;-inkscape-font-specification:'Chango, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff0000;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:round"
@@ -74,329 +86,368 @@
          style="stroke-width:0.396875"
          x="48.85928"
          y="-2.2392945" /></text>
+    <rect
+       style="fill:#9ea366;fill-opacity:1;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1-3"
+       width="47.639614"
+       height="16.933331"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:#1f1f1f;fill-opacity:1;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1-3-1"
+       width="47.639614"
+       height="16.933331"
+       x="47.639614"
+       y="0" />
+    <rect
+       style="fill:#3d6641;fill-opacity:1;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1-3-1-3"
+       width="40.187424"
+       height="16.933331"
+       x="95.279236"
+       y="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7441px;line-height:1.6;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#3d6641;fill-opacity:1;stroke-width:0.396874;stroke-linecap:round;stroke-linejoin:round"
+       x="1.9635273"
+       y="5.9695358"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7441px;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3d6641;fill-opacity:1;stroke-width:0.396874"
+         x="1.9635273"
+         y="5.9695358">cъйишниць</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.645px;line-height:1.6;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#3d6641;fill-opacity:1;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       x="2.0234847"
+       y="14.63113"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="fill:#3d6641;fill-opacity:1;stroke-width:0.396876"
+         x="2.0234847"
+         y="14.63113">$2.50</tspan></text>
+    <rect
+       style="fill:#3d6641;fill-opacity:1;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       id="rect26"
+       width="135.46664"
+       height="16.933331"
+       x="1.2234423e-05"
+       y="16.933332" />
+    <path
+       style="fill:#d3bc5f;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       d="m 21.825668,9.1716851 0.93837,2.7298059 1.96205,2.132662 3.326951,1.108983 4.009404,-0.938371 2.90042,-2.729806 0.682451,-2.3032739 -0.51184,-1.4502099 -1.108983,-0.5971459 -0.853064,0.7677579 -0.25592,1.8767418 -1.023678,2.132662 -1.364902,0.25592 -2.132662,0.93837 -1.45021,-0.597144 L 25.664459,10.877815 24.299556,9.3422971 23.95833,7.8067812 23.275878,7.0390233 22.2522,6.9537233 21.910974,7.8920932 Z"
+       id="path2" />
+    <path
+       style="fill:#decd87;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       d="m 23.275878,7.0390233 10.748613,0.0853 -4.563896,5.5022677 -2.51654,-0.12796 -1.962047,-2.38858 L 24.299556,9.3422911 23.95833,7.8067752 Z"
+       id="path3" />
+    <path
+       style="fill:#decd87;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       d="m 29.460595,12.626591 2.431234,-0.7251 1.023678,-2.132662 0.25592,-1.8767418 z"
+       id="path4" />
+    <path
+       style="fill:#decd87;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       d="m 29.460595,12.626591 -1.06633,0.46919 -1.45021,-0.597144 z"
+       id="path5"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#b68a86;fill-opacity:1;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       d="m 25.660923,7.0579513 -0.678861,3.0521657 0.980969,1.194224 2.239294,1.25827 2.324602,-0.4052 2.38858,-2.388582 0.02106,-2.6531397 -1.81249,-1.8681018 -0.853066,-0.511838 -1.279596,-0.17062 -1.364904,0.597146 z"
+       id="path6" />
+    <path
+       style="fill:#c9a6b5;fill-opacity:1;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       d="m 27.626511,5.1622755 1.023674,1.9193978 3.380136,-0.9000359 z"
+       id="path7" />
+    <path
+       style="fill:#decd87;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       d="m 28.053033,15.143142 14.246179,0.0853 2.132662,-1.706127 1.023675,-1.70613 0.341226,-1.364904 -0.0853,-1.6208219 -0.597146,-0.7677579 -0.938369,-0.25592 -1.364904,-0.0853 -2.132662,0.0853 -1.535516,-0.17062 -1.108984,-0.0853 -3.454911,-0.1279599 1.066331,1.7487838 -0.682451,2.3032739 -2.90042,2.729806 z"
+       id="path8" />
+    <path
+       style="fill:#b68a86;fill-opacity:1;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       d="m 30.697545,4.9916675 9.298397,0.341226 0.76776,0.2559199 0.597144,0.341226 1.45021,1.7914418 -9.874489,-0.6057919 z"
+       id="path9" />
+    <path
+       style="fill:#b68a86;fill-opacity:1;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       d="m 42.811056,7.7214812 -7.677582,-6e-6 -2.196907,-0.6057859 8.125707,-1.3562619 z"
+       id="path10" />
+    <path
+       style="fill:#c9a6b5;fill-opacity:1;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       d="m 33.511993,5.0949495 1.834749,0.06734 0.251882,1.5090838 z"
+       id="path11" />
+    <path
+       style="fill:#c9a6b5;fill-opacity:1;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       d="m 38.106094,5.2635415 0.16064,0.9624879 1.7292,-0.8931359 z"
+       id="path12" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.23496px;line-height:1.6;font-family:Z003;-inkscape-font-specification:'Z003, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#cccccc;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       x="50.415005"
+       y="5.7089353"
+       id="text13"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.23496px;font-family:Z003;-inkscape-font-specification:'Z003, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#cccccc;stroke-width:0.396876"
+         x="50.415005"
+         y="5.7089353"
+         id="tspan14">мошынники</tspan></text>
     <g
-       id="g3"
-       transform="scale(1.9999998)"
-       style="stroke-width:0.5">
+       id="g17"
+       transform="matrix(0.43695228,0,0,0.43695228,61.9157,-7.0987147)"
+       style="stroke-width:2.28858">
+      <ellipse
+         style="fill:#333333;stroke-width:0.90828;stroke-linecap:round;stroke-linejoin:round"
+         id="path16"
+         cx="42.595741"
+         cy="41.297176"
+         rx="6.3035216"
+         ry="11.279986" />
       <rect
-         style="fill:#9ea366;fill-opacity:1;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         id="rect1-3"
-         width="23.819809"
-         height="8.4666662"
-         x="0"
-         y="0" />
-      <rect
-         style="fill:#1f1f1f;fill-opacity:1;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         id="rect1-3-1"
-         width="23.819809"
-         height="8.4666662"
-         x="23.819809"
-         y="0" />
-      <rect
-         style="fill:#3d6641;fill-opacity:1;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         id="rect1-3-1-3"
-         width="20.093714"
-         height="8.4666662"
-         x="47.639622"
-         y="0" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.87205px;line-height:1.6;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#3d6641;fill-opacity:1;stroke-width:0.198437;stroke-linecap:round;stroke-linejoin:round"
-         x="0.98176378"
-         y="2.9847682"
-         id="text1"><tspan
-           sodipodi:role="line"
-           id="tspan1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.87205px;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3d6641;fill-opacity:1;stroke-width:0.198437"
-           x="0.98176378"
-           y="2.9847682">cъйишниць</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.3225px;line-height:1.6;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#3d6641;fill-opacity:1;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         x="1.0117425"
-         y="7.3155661"
-         id="text2"><tspan
-           sodipodi:role="line"
-           id="tspan2"
-           style="fill:#3d6641;fill-opacity:1;stroke-width:0.198438"
-           x="1.0117425"
-           y="7.3155661">$2.50</tspan></text>
-      <rect
-         style="fill:#3d6641;fill-opacity:1;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         id="rect26"
-         width="67.73333"
-         height="8.4666662"
-         x="6.1172118e-06"
-         y="8.4666672" />
-      <path
-         style="fill:#d3bc5f;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         d="m 10.912835,4.585843 0.469185,1.364903 0.981025,1.066331 1.663476,0.554492 2.004702,-0.469186 1.45021,-1.364903 0.341226,-1.151637 -0.25592,-0.725105 -0.554492,-0.298573 -0.426532,0.383879 -0.12796,0.938371 -0.511839,1.066331 -0.682451,0.12796 L 14.197134,6.547891 13.472029,6.249319 12.832231,5.438908 12.149779,4.671149 11.979166,3.903391 11.63794,3.519512 11.126101,3.476862 10.955488,3.946047 Z"
-         id="path2" />
-      <path
-         style="fill:#decd87;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         d="m 11.63794,3.519512 5.374307,0.04265 -2.281948,2.751134 -1.25827,-0.06398 -0.981024,-1.19429 -0.341226,-0.38388 -0.170613,-0.767758 z"
-         id="path3" />
-      <path
-         style="fill:#decd87;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         d="m 14.730299,6.313296 1.215617,-0.36255 0.511839,-1.066331 0.12796,-0.938371 z"
-         id="path4" />
-      <path
-         style="fill:#decd87;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         d="M 14.730299,6.313296 14.197134,6.547891 13.472029,6.249319 Z"
-         id="path5"
-         sodipodi:nodetypes="cccc" />
-      <path
-         style="fill:#b68a86;fill-opacity:1;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         d="m 12.830463,3.528976 -0.339431,1.526083 0.490485,0.597112 1.119647,0.629135 1.162301,-0.2026 1.19429,-1.194291 0.01053,-1.32657 L 15.56204,2.623794 15.135507,2.367875 14.495709,2.282565 13.813257,2.581138 Z"
-         id="path6" />
-      <path
-         style="fill:#c9a6b5;fill-opacity:1;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         d="m 13.813257,2.581138 0.511837,0.959699 1.690068,-0.450018 z"
-         id="path7" />
-      <path
-         style="fill:#decd87;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         d="m 14.026518,7.571572 7.12309,0.04265 L 22.215939,6.761158 22.727777,5.908093 22.89839,5.225641 22.85574,4.41523 22.557167,4.031351 22.087982,3.903391 21.40553,3.860741 l -1.066331,0.04265 -0.767758,-0.08531 -0.554492,-0.04265 -1.727456,-0.06398 0.533166,0.874392 -0.341226,1.151637 -1.45021,1.364903 z"
-         id="path8" />
-      <path
-         style="fill:#b68a86;fill-opacity:1;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         d="m 15.348774,2.495834 4.649199,0.170613 0.38388,0.12796 0.298572,0.170613 0.725105,0.895721 -4.937245,-0.302896 z"
-         id="path9" />
-      <path
-         style="fill:#b68a86;fill-opacity:1;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         d="m 21.40553,3.860741 -3.838791,-3e-6 -1.098454,-0.302893 4.062854,-0.678131 z"
-         id="path10" />
-      <path
-         style="fill:#c9a6b5;fill-opacity:1;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         d="m 16.755998,2.547475 0.917375,0.03367 0.125941,0.754542 z"
-         id="path11" />
-      <path
-         style="fill:#c9a6b5;fill-opacity:1;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         d="m 19.053049,2.631771 0.08032,0.481244 0.8646,-0.446568 z"
-         id="path12" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.61748px;line-height:1.6;font-family:Z003;-inkscape-font-specification:'Z003, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#cccccc;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         x="25.207504"
-         y="2.8544679"
-         id="text13"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.61748px;font-family:Z003;-inkscape-font-specification:'Z003, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#cccccc;stroke-width:0.198438"
-           x="25.207504"
-           y="2.8544679"
-           id="tspan14">мошынники</tspan></text>
-      <g
-         id="g17"
-         transform="matrix(0.21847616,0,0,0.21847616,30.957853,-3.5493577)"
-         style="stroke-width:2.28858">
-        <ellipse
-           style="fill:#333333;stroke-width:0.90828;stroke-linecap:round;stroke-linejoin:round"
-           id="path16"
-           cx="42.595741"
-           cy="41.297176"
-           rx="6.3035216"
-           ry="11.279986" />
-        <rect
-           style="fill:#333333;stroke-width:0.90828;stroke-linecap:round;stroke-linejoin:round"
-           id="rect17"
-           width="6.3035202"
-           height="22.559973"
-           x="42.595741"
-           y="30.017191" />
-        <ellipse
-           style="fill:#4d4d4d;stroke-width:0.90828;stroke-linecap:round;stroke-linejoin:round"
-           id="path16-3"
-           cx="48.899261"
-           cy="41.297176"
-           rx="6.3035216"
-           ry="11.279986" />
-        <ellipse
-           style="fill:#999999;stroke-width:0.90828;stroke-linecap:round;stroke-linejoin:round"
-           id="path16-3-3"
-           cx="48.899261"
-           cy="41.296967"
-           rx="4.1621342"
-           ry="7.4480295" />
-        <ellipse
-           style="fill:#b3b3b3;stroke-width:0.90828;stroke-linecap:round;stroke-linejoin:round"
-           id="path16-3-3-7"
-           cx="48.899261"
-           cy="41.297176"
-           rx="2.5328059"
-           ry="4.5323896" />
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.68226px;line-height:1.6;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.198437;stroke-linecap:round;stroke-linejoin:round"
-         x="22.85313"
-         y="14.359034"
-         id="text17"
-         transform="rotate(-15)"><tspan
-           sodipodi:role="line"
-           id="tspan17"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.68226px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.198437"
-           x="22.85313"
-           y="14.359034">машина-шина</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.68226px;line-height:1.6;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.198437;stroke-linecap:round;stroke-linejoin:round"
-         x="31.354948"
-         y="16.77953"
-         id="text17-2"
-         transform="rotate(-15)"><tspan
-           sodipodi:role="line"
-           id="tspan17-4"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.68226px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.198437"
-           x="31.354948"
-           y="16.77953">-20%</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.45801px;line-height:1.6;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#66413d;fill-opacity:1;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         x="48.467899"
-         y="7.2019725"
-         id="text18"><tspan
-           sodipodi:role="line"
-           id="tspan18"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.45801px;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#66413d;fill-opacity:1;stroke-width:0.198438"
-           x="48.467899"
-           y="7.2019725">шэшэ</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8454px;line-height:1.6;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         x="48.409576"
-         y="1.9936242"
-         id="text24"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8454px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.198438"
-           x="48.409576"
-           y="1.9936242"
-           id="tspan25">ЛУЧШИЕ ПРОДУКТЫ В</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63585px;line-height:1.6;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#66413d;fill-opacity:1;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         x="20.969719"
-         y="15.372551"
-         id="text18-3"><tspan
-           sodipodi:role="line"
-           id="tspan18-2"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63585px;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#66413d;fill-opacity:1;stroke-width:0.198438"
-           x="20.969719"
-           y="15.372551">шэшэ</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8454px;line-height:1.6;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         x="-2.2618029"
-         y="14.484327"
-         id="text24-0"
-         transform="rotate(-15)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8454px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.198438"
-           x="-2.2618029"
-           y="14.484327"
-           id="tspan25-4">ЛУЧШИЕ ПРОДУКТЫ </tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8454px;line-height:1.6;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         x="-2.8096364"
-         y="16.528868"
-         id="text24-0-1"
-         transform="rotate(-15)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8454px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.198438"
-           x="-2.8096364"
-           y="16.528868"
-           id="tspan25-4-21">ЛУЧШИЕ ПРОДУКТЫ </tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8454px;line-height:1.6;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         x="43.830048"
-         y="26.796129"
-         id="text24-0-0"
-         transform="rotate(-15)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8454px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.198438"
-           x="43.830048"
-           y="26.796129"
-           id="tspan25-4-5">ЛУЧШИЕ ПРОДУКТЫ </tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8454px;line-height:1.6;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         x="43.282211"
-         y="28.84067"
-         id="text24-0-1-7"
-         transform="rotate(-15)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8454px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.198438"
-           x="43.282211"
-           y="28.84067"
-           id="tspan25-4-21-4">ЛУЧШИЕ ПРОДУКТЫ </tspan></text>
-      <rect
-         style="fill:#66413d;fill-opacity:1;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         id="rect26-9"
-         width="67.73333"
-         height="8.4666662"
-         x="0"
-         y="16.933332" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63585px;line-height:1.6;font-family:Lugatype;-inkscape-font-specification:'Lugatype, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ebebeb;fill-opacity:1;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         x="20.878098"
-         y="23.075628"
-         id="text18-3-1"><tspan
-           sodipodi:role="line"
-           id="tspan18-2-2"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63585px;font-family:Lugatype;-inkscape-font-specification:'Lugatype, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ebebeb;fill-opacity:1;stroke-width:0.198438"
-           x="20.878098"
-           y="23.075628">Дымофон</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.21512px;line-height:1.6;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#9ea366;fill-opacity:1;stroke-width:0.198437;stroke-linecap:round;stroke-linejoin:round"
-         x="1.4020525"
-         y="20.192165"
-         id="text1-5"><tspan
-           sodipodi:role="line"
-           id="tspan1-9"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.21512px;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9ea366;fill-opacity:1;stroke-width:0.198437"
-           x="1.4020525"
-           y="20.192165">Продай</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.21512px;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9ea366;fill-opacity:1;stroke-width:0.198437"
-           x="1.4020525"
-           y="23.736357"
-           id="tspan3">Микрофон</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.21512px;line-height:1.6;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#9ea366;fill-opacity:1;stroke-width:0.198437;stroke-linecap:round;stroke-linejoin:round"
-         x="66.893967"
-         y="20.192165"
-         id="text1-5-3"><tspan
-           sodipodi:role="line"
-           id="tspan1-9-6"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.21512px;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#9ea366;fill-opacity:1;stroke-width:0.198437"
-           x="66.893967"
-           y="20.192165">купи</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.21512px;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#9ea366;fill-opacity:1;stroke-width:0.198437"
-           x="66.893967"
-           y="23.736357"
-           id="tspan3-5">дымофон</tspan></text>
-      <rect
-         style="fill:#9ea366;fill-opacity:1;stroke-width:0.198438;stroke-linecap:round;stroke-linejoin:round"
-         id="rect26-9-9"
-         width="67.73333"
-         height="8.4666662"
-         x="0"
-         y="25.399998" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.64829px;line-height:1.6;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#3d6641;fill-opacity:1;stroke-width:0.198436;stroke-linecap:round;stroke-linejoin:round"
-         x="0.32140836"
-         y="32.794289"
-         id="text1-1"><tspan
-           sodipodi:role="line"
-           id="tspan1-5"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.64829px;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3d6641;fill-opacity:1;stroke-width:0.198436"
-           x="0.32140836"
-           y="32.794289">cъйишниць</tspan></text>
+         style="fill:#333333;stroke-width:0.90828;stroke-linecap:round;stroke-linejoin:round"
+         id="rect17"
+         width="6.3035202"
+         height="22.559973"
+         x="42.595741"
+         y="30.017191" />
+      <ellipse
+         style="fill:#4d4d4d;stroke-width:0.90828;stroke-linecap:round;stroke-linejoin:round"
+         id="path16-3"
+         cx="48.899261"
+         cy="41.297176"
+         rx="6.3035216"
+         ry="11.279986" />
+      <ellipse
+         style="fill:#999999;stroke-width:0.90828;stroke-linecap:round;stroke-linejoin:round"
+         id="path16-3-3"
+         cx="48.899261"
+         cy="41.296967"
+         rx="4.1621342"
+         ry="7.4480295" />
+      <ellipse
+         style="fill:#b3b3b3;stroke-width:0.90828;stroke-linecap:round;stroke-linejoin:round"
+         id="path16-3-3-7"
+         cx="48.899261"
+         cy="41.297176"
+         rx="2.5328059"
+         ry="4.5323896" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.36452px;line-height:1.6;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.396874;stroke-linecap:round;stroke-linejoin:round"
+       x="45.706257"
+       y="28.718065"
+       id="text17"
+       transform="rotate(-15)"><tspan
+         sodipodi:role="line"
+         id="tspan17"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.36452px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.396874"
+         x="45.706257"
+         y="28.718065">машина-шина</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.36452px;line-height:1.6;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.396874;stroke-linecap:round;stroke-linejoin:round"
+       x="62.709892"
+       y="33.559055"
+       id="text17-2"
+       transform="rotate(-15)"><tspan
+         sodipodi:role="line"
+         id="tspan17-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.36452px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.396874"
+         x="62.709892"
+         y="33.559055">-20%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.916px;line-height:1.6;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#66413d;fill-opacity:1;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       x="96.935791"
+       y="14.403943"
+       id="text18"><tspan
+         sodipodi:role="line"
+         id="tspan18"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.916px;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#66413d;fill-opacity:1;stroke-width:0.396876"
+         x="96.935791"
+         y="14.403943">шэшэ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6908px;line-height:1.6;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       x="96.819145"
+       y="3.9872479"
+       id="text24"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6908px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.396876"
+         x="96.819145"
+         y="3.9872479"
+         id="tspan25">ЛУЧШИЕ ПРОДУКТЫ В</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2717px;line-height:1.6;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#66413d;fill-opacity:1;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       x="41.939434"
+       y="30.745098"
+       id="text18-3"><tspan
+         sodipodi:role="line"
+         id="tspan18-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2717px;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#66413d;fill-opacity:1;stroke-width:0.396876"
+         x="41.939434"
+         y="30.745098">шэшэ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6908px;line-height:1.6;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       x="-4.5236053"
+       y="28.968653"
+       id="text24-0"
+       transform="rotate(-15)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6908px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.396876"
+         x="-4.5236053"
+         y="28.968653"
+         id="tspan25-4">ЛУЧШИЕ ПРОДУКТЫ </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6908px;line-height:1.6;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       x="-5.6192722"
+       y="33.057732"
+       id="text24-0-1"
+       transform="rotate(-15)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6908px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.396876"
+         x="-5.6192722"
+         y="33.057732"
+         id="tspan25-4-21">ЛУЧШИЕ ПРОДУКТЫ </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6908px;line-height:1.6;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       x="87.660088"
+       y="53.592255"
+       id="text24-0-0"
+       transform="rotate(-15)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6908px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.396876"
+         x="87.660088"
+         y="53.592255"
+         id="tspan25-4-5">ЛУЧШИЕ ПРОДУКТЫ </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6908px;line-height:1.6;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       x="86.564415"
+       y="57.681335"
+       id="text24-0-1-7"
+       transform="rotate(-15)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6908px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.396876"
+         x="86.564415"
+         y="57.681335"
+         id="tspan25-4-21-4">ЛУЧШИЕ ПРОДУКТЫ </tspan></text>
+    <rect
+       style="fill:#66413d;fill-opacity:1;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       id="rect26-9"
+       width="135.46664"
+       height="16.933331"
+       x="0"
+       y="33.866661" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2717px;line-height:1.6;font-family:Lugatype;-inkscape-font-specification:'Lugatype, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ebebeb;fill-opacity:1;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       x="41.756191"
+       y="46.151253"
+       id="text18-3-1"><tspan
+         sodipodi:role="line"
+         id="tspan18-2-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2717px;font-family:Lugatype;-inkscape-font-specification:'Lugatype, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ebebeb;fill-opacity:1;stroke-width:0.396876"
+         x="41.756191"
+         y="46.151253">Дымофон</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.43024px;line-height:1.6;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#9ea366;fill-opacity:1;stroke-width:0.396874;stroke-linecap:round;stroke-linejoin:round"
+       x="2.8041048"
+       y="40.384327"
+       id="text1-5"><tspan
+         sodipodi:role="line"
+         id="tspan1-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.43024px;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9ea366;fill-opacity:1;stroke-width:0.396874"
+         x="2.8041048"
+         y="40.384327">Продай</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.43024px;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9ea366;fill-opacity:1;stroke-width:0.396874"
+         x="2.8041048"
+         y="47.47271"
+         id="tspan3">Микрофон</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.43024px;line-height:1.6;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#9ea366;fill-opacity:1;stroke-width:0.396874;stroke-linecap:round;stroke-linejoin:round"
+       x="133.78792"
+       y="40.384327"
+       id="text1-5-3"><tspan
+         sodipodi:role="line"
+         id="tspan1-9-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.43024px;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#9ea366;fill-opacity:1;stroke-width:0.396874"
+         x="133.78792"
+         y="40.384327">купи</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.43024px;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#9ea366;fill-opacity:1;stroke-width:0.396874"
+         x="133.78792"
+         y="47.47271"
+         id="tspan3-5">дымофон</tspan></text>
+    <rect
+       style="fill:#9ea366;fill-opacity:1;stroke-width:0.396876;stroke-linecap:round;stroke-linejoin:round"
+       id="rect26-9-9"
+       width="135.46664"
+       height="16.933331"
+       x="0"
+       y="50.799992" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.2966px;line-height:1.6;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#3d6641;fill-opacity:1;stroke-width:0.396872;stroke-linecap:round;stroke-linejoin:round"
+       x="0.64281666"
+       y="65.58857"
+       id="text1-1"><tspan
+         sodipodi:role="line"
+         id="tspan1-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.2966px;font-family:'Rubik Mono One';-inkscape-font-specification:'Rubik Mono One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3d6641;fill-opacity:1;stroke-width:0.396872"
+         x="0.64281666"
+         y="65.58857">cъйишниць</tspan></text>
+    <rect
+       style="fill:#508186;fill-opacity:1;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1"
+       width="135.46666"
+       height="11.112499"
+       x="4.5410155e-07"
+       y="-11.112503" />
+    <path
+       id="rect2"
+       style="fill:#a3669e;fill-opacity:1;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:round"
+       d="M 124.35416,-11.1125 113.24166,-8.2591448e-7 h 22.225 V -11.1125 Z" />
+    <path
+       id="rect2-1"
+       style="fill:#555086;fill-opacity:1;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:round"
+       d="m 135.46666,-11.112503 v 0 V 0 l -11.1125,-3.6523104e-6 z"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.8563px;line-height:1.6;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.396871;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="27.385887"
+       y="-2.3075762"
+       id="text1-1-3"><tspan
+         sodipodi:role="line"
+         id="tspan1-5-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.8563px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.396871;stroke-opacity:1"
+         x="27.385887"
+         y="-2.3075762">Весёлые старты</tspan></text>
+    <path
+       id="path13"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="M 132.89989,-11.1125 121.78739,-8.2591448e-7 h 5.09737 L 135.46666,-8.5819056 V -11.1125 Z" />
+    <path
+       id="rect2-3"
+       style="fill:#a3669e;fill-opacity:1;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:round"
+       d="M 11.1125,-11.112503 22.225,-3.8832275e-6 H 4.5410154e-7 V -11.112503 Z" />
+    <path
+       id="rect2-1-5"
+       style="fill:#555086;fill-opacity:1;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:round"
+       d="m 4.5410151e-7,-11.112506 v 0 V -3.0832275e-6 L 11.1125,-6.7832275e-6 Z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path13-6"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="M 2.5667705,-11.112503 13.67927,-3.8832275e-6 H 8.5819005 L 4.541015e-7,-8.581909 v -2.530594 z" />
   </g>
 </svg>
